@@ -4,7 +4,7 @@
 ##  Name
 **Rock Nasr**
 
-## 🔌 API Used
+## API Used
 **Quotes API (category=music)** from [API Ninjas](https://api-ninjas.com/api/quotes) — This was the only API that suited the nature of the project.
 
 ##  Project Description
